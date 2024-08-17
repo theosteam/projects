@@ -4,6 +4,8 @@ Welcome to the official project page of **The OS Team**. We're a small group of 
 
 Explore our current and past projects below or learn more about our team [here](about.md).
 
+<sub>Check out our [main page](https://theosteam.github.io)</sub>
+
 ---
 
 ## Contributors Welcome!
